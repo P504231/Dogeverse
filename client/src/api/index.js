@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = 'https://dogeverseapi.herokuapp.com/posts';
+const url =Api of Backend deployment ex:-'https://xyz.herokuapp.com/klmn'
 
 export const fetchPosts = () => axios.get(url);
 export const createPost = (newPost) => axios.post(url, newPost);
