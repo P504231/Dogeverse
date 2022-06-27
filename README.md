@@ -27,5 +27,5 @@ https://dogeverse.netlify.app/
 
 **Client:** React, Redux, Material-UI
 
-**Server:** Mongoose,Express,Node
+**Server:** MongoDB,Express,Node
 
