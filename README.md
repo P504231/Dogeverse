@@ -7,7 +7,7 @@ has one mission, to help shelter animals get adopted and find a loving home.🐕
 
 ## Features
 
-- Upload new Post 'C'
+- Create and Upload new Post 'C'
 - Update Post 'U'
 - See Other's Post's 'R'
 - Delete Post 'D'
