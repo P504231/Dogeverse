@@ -15,7 +15,7 @@ has one mission, to help shelter animals get adopted and find a loving home.🐕
 
 ## Currently  Working On
 📢 :currently working on user's authentication
-After user authentication :-all inclusive community and shopping site is for animal lovers of all stripes and colors. Users can create Facebook-style profiles for their fish, birds, reptiles, dogs and cats, and meet others on the Dogeverse - a message board for questions or learning about animals in need.
+After user authentication :-all inclusive community and shopping site is for animal lovers of all stripes and colors. Users can create profiles for their fish, birds, reptiles, dogs and cats, and meet others on the Dogeverse - a message board for questions or learning about animals in need.
 
 ## Website Link
 https://dogeverse.netlify.app/
