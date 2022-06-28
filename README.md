@@ -21,7 +21,8 @@ After user authentication :-all inclusive community and shopping site is for ani
 
 
 ## Screenshots
-[Screenshot (2)](https://user-images.githubusercontent.com/78685271/176116258-b5175514-4e05-4c53-9384-6ed30e81840f.png)
+
+![Screenshot (2)](https://user-images.githubusercontent.com/78685271/176116464-7d9c1832-a3be-4a22-a06c-a7eff9124fdf.png)
 
 ## Tech Stack
 
