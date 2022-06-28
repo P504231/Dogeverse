@@ -21,8 +21,7 @@ After user authentication :-all inclusive community and shopping site is for ani
 
 
 ## Screenshots
-
-https://dogeverse.netlify.app/![Screenshot (2)](https://user-images.githubusercontent.com/78685271/176116258-b5175514-4e05-4c53-9384-6ed30e81840f.png)
+[Screenshot (2)](https://user-images.githubusercontent.com/78685271/176116258-b5175514-4e05-4c53-9384-6ed30e81840f.png)
 
 ## Tech Stack
 
