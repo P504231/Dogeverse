@@ -9,7 +9,7 @@ has one mission, to help shelter animals get adopted and find a loving home.🐕
 
 - Create and Upload new Post 'C'
 - Update Post 'U'
-- See Other's Post's 'R'
+- See Post's 'R'
 - Delete Post 'D'
 
 
@@ -27,7 +27,9 @@ https://2019ugec031dogeverse.netlify.app/
 
 ## Tech Stack
 
-**Client:** React, Redux, Material-UI
+**Client:** React. Deployed on netilfy
 
-**Server:** MongoDB,Express,Node
+**Server:** Node,Express. Deployed on heroku
+
+**Database** MongoDB.
 
