@@ -8,8 +8,8 @@ has one mission, to help shelter animals get adopted and find a loving home.🐕
 ## Features
 
 - Create and Upload new Post 'C'
-- Update Post 'U'
 - See Post's 'R'
+- Update Post 'U'
 - Delete Post 'D'
 
 
