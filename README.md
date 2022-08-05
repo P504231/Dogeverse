@@ -27,9 +27,11 @@ https://2019ugec031dogeverse.netlify.app/
 
 ## Tech Stack
 
-**Client:-** React. Deployed on netilfy
+**Client:-** React
+**(Deployed on netilfy)**
 
-**Server:-** Node,Express. Deployed on heroku
+**Server:-** Node,Express
+**(Deployed on heroku)**
 
-**Database:-** MongoDB.
+**Database:-** MongoDB
 
